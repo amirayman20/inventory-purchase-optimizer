@@ -195,12 +195,4 @@ FAST_MULTIPLIER = 1.30
 
 ---
 
-# Contact
-
-- LinkedIn: Amir Ayman  
-- GitHub: amirayman20  
-- Email: amirayman20@gmail.com  
-
----
-
 **Last Updated:** June 2026
